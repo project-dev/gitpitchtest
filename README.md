@@ -1,2 +1,0 @@
-# gitpitchtest
-gitpitchtest
